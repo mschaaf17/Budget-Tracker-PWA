@@ -10,7 +10,7 @@
 
 ## Description:
 An application to track my withdrawals and deposits with or without a data/internet connection.
-## Built with: Node.js, Express, Javascript, MongoDB, Mongoose, and Webpack.
+* Built with: Node.js, Express, Javascript, MongoDB, Mongoose, and Webpack.
 
 ## ![image](https://user-images.githubusercontent.com/97362296/170845175-1c9f8860-f4d9-448c-90b4-e53686512081.png)
 
