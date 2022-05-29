@@ -61,6 +61,7 @@ function uploadItem() {
                 const transaction = db.transaction(['new_item'], 'readwrite')
                 const itemObjectStore = transaction.objectStore('new_item')
                 itemObjectStore.clear()
+                alert('You are back online')
             })
             .catch(err => {
                 console.log(err)
